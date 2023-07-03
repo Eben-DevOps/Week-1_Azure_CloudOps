@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: MyPc_Agent
+pool: MyPc_Agent
 
 steps:
 - task: ArchiveFiles@2

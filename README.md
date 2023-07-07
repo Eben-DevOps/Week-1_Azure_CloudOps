@@ -6,6 +6,10 @@ Static Website Deployment with Azure Storage and Azure DevOps
 
 This project demonstrates the deployment of a static website using Azure Storage and Azure DevOps. It provides step-by-step instructions to set up a continuous integration and deployment pipeline to automate the deployment process. The website is hosted on Azure Blob Storage and can be accessed globally through Azure CDN.
 
+## Architectural Diagram
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688709556557/3c6a354d-be74-45fd-8d0d-90282a244ce6.png?auto=compress,format&format=webp">
+
 ## Prerequisites
 
 Before getting started, make sure you have the following:

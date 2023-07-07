@@ -21,6 +21,10 @@ Before getting started, make sure you have the following:
 - Domain Name or Sub-Domain (Optional)
 - Resilient Attitude to learn and build on Azure Cloud 😉
 
+## 📝 Detailed Step-by-Step Guide
+
+If you're interested in learning more about the setup and deployment process, I've written a blog post 📝 that outlines each step in detail. You can access the blog post [[Here](https://joeloduyemi.hashnode.dev/unleashing-the-power-of-azure-storage-a-beginners-guide-to-hosting-static-websites-on-azure-cloud)] to gain insights into the configuration, automation, and best practices involved in building and deploying this architecture. 📚
+
 ## Table of Contents
 
 1. [Prerequisites](#prerequisites)
@@ -29,8 +33,6 @@ Before getting started, make sure you have the following:
 4. [Configuring Azure DevOps Pipeline](#configuring-azure-devops-pipeline)
 5. [Setting Up Azure CDN and Custom Domain Mapping](#setting-up-azure-cdn-and-custom-domain-mapping)
 6. [Cleaning Up Resources](#cleaning-up-resources)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Getting Started
 
@@ -74,11 +76,3 @@ To clean up the resources used in the project, follow these steps:
 1. Delete the Azure CDN profile and endpoint.
 2. Remove the Azure Storage account.
 3. Delete any custom domain DNS records (if applicable).
-
-## Contributing
-
-Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
